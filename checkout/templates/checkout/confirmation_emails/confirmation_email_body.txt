@@ -1,0 +1,7 @@
+Hello {{ order.full_name }}
+
+order number: {{ order.order_number }}
+order date: {{ order.date }}
+order total: {{ order.order_total }}
+delivery: {{ order.delivery }}
+gradn total : {{ order.grand_total }}
