@@ -1,4 +1,5 @@
 asgiref==3.2.3
+backports.zoneinfo==0.2.1
 boto3==1.12.42
 botocore==1.15.42
 chardet==3.0.4
